@@ -125,7 +125,7 @@ After the initial creation of the child .D token. This action allows the token i
 
 * parameters:
   * burnRouting (string): defaults to null, but can be change to a valid hive account name
-  * feePercentage (decimal as string): between 0 and 1  see detailed explanation in ##[createTokenD](##createTokenD) section.
+  * feePercentage (decimal as string): between 0 and 1  see detailed explanation in [createTokenD](##createTokenD) section.
 
   * examples:  
 ```
@@ -146,7 +146,7 @@ After the initial creation of the child .D token. This action allows the token i
 Allows users to convert parent tokens into the child .D token. Requires a fee of 1 BEED.
 
 * requires active key: yes
-* market pools required // #[Requirements](#requirements)
+* market pools required [Requirements](#requirements)
 
 * fields
   * symbol = symbol of the parent token to be burned, then hive account to be issued .D stable token
