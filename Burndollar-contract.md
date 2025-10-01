@@ -125,7 +125,7 @@ After the initial creation of the child .D token. This action allows the token i
 
 * parameters:
   * burnRouting (string): defaults to null, but can be change to a valid hive account name
-  * feePercentage (decimal as string): between 0 and 1  see detailed explanation in [createTokenD](##createTokenD) section.
+  * feePercentage (decimal as string): between 0 and 1  see detailed explanation in [createTokenD](#createTokenD) section.
 
   * examples:  
 ```
